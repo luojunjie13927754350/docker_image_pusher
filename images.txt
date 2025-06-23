@@ -1,1 +1,1 @@
-bladex/sentinel-dashboard:1.8.0
+mysql:8.0.32
